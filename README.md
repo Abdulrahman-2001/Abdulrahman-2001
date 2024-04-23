@@ -1,11 +1,19 @@
-### Hi there 👋, my name is Abdulrahman
+### Abdulrahman Albadawi
 #### Electrical and Electronic Engineering Student
 ![Electrical and Electronic Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am Abdulrahman from Syria; I am a student at Sabahattin Zaim University in Istanbul. I study Electrical and Electronic Engineering. I am interested in my circuits and learning programming languages.
 
 
-Skills: C /C++ / JS / HTML / CSS/ Proteus/ Arduino/ Multisim 
+#Skills:
+* C 
+* C++ 
+* JS
+* HTML
+* CSS
+* Proteus
+* Arduino
+* Multisim 
 
 - 🔭 I’m currently working on this page. 
 
